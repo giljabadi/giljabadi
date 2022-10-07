@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gil Jacob Abadi</h1>
-<h3 align="center">A passionate full-stack developer from Los Angeles</h3>
+<h3 align="center">A passionate full-stack developer from Los Angeles & Proud Air Force Veteran</h3>
 
 - 🔭 I’m currently working on [Pomo.wtf](https://github.com/joeyiny/Pomodoro)
 
