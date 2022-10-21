@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gil Jacob Abadi</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles & Proud Air Force Veteran</h3>
 
-- 🔭 I’m currently working on [Pomo.wtf](https://github.com/joeyiny/Pomodoro)
+- 💻 I’m currently working on [Pomo.wtf](https://pomo.wtf)
 
-- 🌱 I’m currently learning [@ CodeUp:](https://codeup.com/program/full-stack-web-development/)
+- 🧠 I’m currently learning [@ CodeUp:](https://codeup.com/program/full-stack-web-development/)
 
 - 📫 How to reach me **giljabadi@gmail.com**
 
